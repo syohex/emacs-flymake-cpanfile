@@ -11,7 +11,7 @@ This package is inspired by [syntstic-cpanfile](https://github.com/moznion/synta
 ## Sample Configuration
 
 ```
-% git clone git://github.com/syohex/emacs-flymake-cpanfile.git
+% git clone git://github.com/syohex/emacs-flymake-cpanfile.git ~/.emacs.d/flymake-cpanfile
 ```
 
 ```elisp
